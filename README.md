@@ -1,2 +1,2 @@
-# portfolio
-Personal Portfolio
+# Personal Portfolio
+Codebase for my personal portfolio
